@@ -1,1 +1,1 @@
-# C-day-2
+#C++ code day 2
